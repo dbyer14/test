@@ -6,4 +6,4 @@ b = raw_input("b is: ")
 c = a + b
 
 print "c is: %s " % c
-ptint "lets see if this works 2"
+print "lets see if this works 2"
